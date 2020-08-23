@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SeedsOfHopeReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SeedsOfHopeReact/static/js/main.e9fcec55.chunk.js",
+    "main.js.map": "/SeedsOfHopeReact/static/js/main.e9fcec55.chunk.js.map",
+    "runtime-main.js": "/SeedsOfHopeReact/static/js/runtime-main.a62f0231.js",
+    "runtime-main.js.map": "/SeedsOfHopeReact/static/js/runtime-main.a62f0231.js.map",
+    "static/js/2.941a33ab.chunk.js": "/SeedsOfHopeReact/static/js/2.941a33ab.chunk.js",
+    "static/js/2.941a33ab.chunk.js.map": "/SeedsOfHopeReact/static/js/2.941a33ab.chunk.js.map",
+    "index.html": "/SeedsOfHopeReact/index.html",
+    "precache-manifest.4c4d5ce97ee2bd28b405d9ba0f9bbb80.js": "/SeedsOfHopeReact/precache-manifest.4c4d5ce97ee2bd28b405d9ba0f9bbb80.js",
+    "service-worker.js": "/SeedsOfHopeReact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/SeedsOfHopeReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.941a33ab.chunk.js.LICENSE.txt": "/SeedsOfHopeReact/static/js/2.941a33ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SeedsOfHopeReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a62f0231.js",
+    "static/js/2.941a33ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e9fcec55.chunk.js"
+  ]
+}
